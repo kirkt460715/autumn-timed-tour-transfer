@@ -1,0 +1,5 @@
+trigger,group,scope,deadline,applies_to,facts
+TR1,weather_AB,shared,09:47,F1|F2,走廊普遍慢行
+TR2,condition_B,exclusive,10:12,F1,B 馆现场通知只接收早场
+TR3,condition_B,exclusive,10:12,F5,B 馆现场通知只接收晚场
+TR4,weather_BC,shared,10:54,F3|F4|F5,走廊普遍慢行

@@ -1,0 +1,6 @@
+family,people,trip,floor,access,move_first,move_second,move_third
+F1,4,SA1|SB1|SC1,0.8,standard,SA1|SA2,SB1|SB2,SC1|SC2
+F2,3,SA1|SB1|SC1,0.7,step_free,SA1,SB1|SB2,SC1|SC2
+F3,3,SA1|SB1|SC1,0.75,standard,SA1,SB1,SC1
+F4,5,SA2|SB2|SC2,0.75,standard,SA2,SB2,SC2
+F5,2,SA1|SB1|SC2,0.78,standard,SA1|SA2,SB1|SB2,SC2
