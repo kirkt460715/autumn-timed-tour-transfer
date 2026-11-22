@@ -1,5 +1,5 @@
-ride,service_date,corridor,leaves,arrives,capacity
-R1,2026-12-06,AB,09:52,10:11,7
-R2,2026-12-06,AB,10:19,10:32,5
-R3,2026-12-06,BC,10:57,11:21,5
-R4,2026-12-06,BC,11:16,11:41,8
+ride,service_date,corridor,leaves,arrives,capacity,accessible
+R1,2026-12-06,AB,09:52,10:11,7,yes
+R2,2026-12-06,AB,10:19,10:32,5,yes
+R3,2026-12-06,BC,10:57,11:21,5,no
+R4,2026-12-06,BC,11:16,11:41,8,yes

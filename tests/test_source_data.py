@@ -6,7 +6,7 @@ DATA = Path(__file__).resolve().parents[1] / "data"
 
 TABLES = {
     'slots': ('slot venue service_date starts ends last_checkin spare', 'slot'),
-    'rides': ('ride service_date corridor leaves arrives capacity', 'ride'),
+    'rides': ('ride service_date corridor leaves arrives capacity accessible', 'ride'),
     'walks': ('corridor minutes allowed_group', 'corridor allowed_group'),
     'family_route': ('family people trip floor access move_first move_second move_third', 'family'),
     'reserves': ('reservation family ride seats state issued_at', 'reservation'),
